@@ -1,2 +1,8 @@
-# codefundo-challenge-2018-
-This repository contains our idea for Microsoft's Codefundo++ 2018
+# codefundo-challenge-2018
+Smartphones and mobile applications have a great role to play in disaster management services.Efficient Mobile applications can help save millions of lives during a natural disaster.
+Our team Power Puff Girls would like to make an effective disaster management android application as a part of codefundo++ 2018.
+At a time of disaster, the we take user input about the type of disaster (like earthquake/cyclone/flood/etc) , his present location ( floor number, address, city) and other details regarding the situation ( like if there is fire/ short circuit caused by the disaster and so on).
+Depending on the given input, the app will guide the user by providing immediate steps to be followed.It will alse give an effective evacuation plan.
+Every user of this app will have an emergency contact list ( list of people he/she would like to contact during emergencies).So as soon as the user clicks a button called “Share details”, his location and the other details regarding the disaster will be sent to all people on his emergency contact list. These details will also be forwarded to government rescue agencies like Red Cross, NSS and so on depending on the city/country. Further if there is a fire/short circuit, a message will be sent to nearest fire station. We will also provide an offline mode of the app as there is no guarantee of internet connection during natural disasters. This will increase the chance of survival of a user during a disaster.
+Implementation details:
+We would like to make an android application for the given idea. We want to integrate GPS and Google maps into our application. We also want to use standard graph theory algorithms to help find the nearest functional fire stations, help agencies and hospitals. 
